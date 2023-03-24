@@ -1,0 +1,20 @@
+* admin:
+- thêm mới trang tổng quát.
+Quản lí thành viên chỉnh sửa giống mô tả
+	+ trang quản lí thành viên thêm thông tin Họ và tên, số lượt đã tải, số lượt tải còn lại 
+	+ Phần sửa thành viên bỏ mục sửa tên mới
+- thêm mục phân quyền trong quản lí thành viên 
+Trang quản lí tài liệu: 
+- sửa lại trang quản lí tài liệu giống file mô tả
+- sửa tài liệu bỏ điều kiện sửa tên mới
+- thêm tìm kiếm tài liệu
+- Sửa tên danh sách tài liệu quản lí tài liệu 
+- bỏ menu thêm tài liệu. thêm thao tác thêm tài liệu vào trang quản lí tài liệu
+- mục thêm tài liệu: + có thêm mục chèn link download từ các host
+			   + Thêm phần hình ảnh minh họa tài liệu ( hiện giờ đang để icon default)
+- thêm và chỉnh sửa (hoặc làm mới) trang menu giống mô tả 
+* user
+- trang download thêm preview các file .doc, ppt, pdf. (preview trang 1)
+- trang nâng cấp chỉnh sửa theo mô tả
+* footer thêm liên hệ zalo 
+Làm lại phần giao diện reponsive 
