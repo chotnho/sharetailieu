@@ -1,0 +1,15 @@
+{
+  "name": "final",
+  "version": "1.0.0",
+  "description": "project final",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "setupserver" : "cd PIB-server && npm install " ,
+    "startserver" : "cd PIB-server && npm start",
+    "setupweb" : "cd STL-client && npm install",
+    "startweb" : "cd STL-client && npm start"
+  },
+  "author": "LinhDuong",
+  "license": "ISC"
+}
